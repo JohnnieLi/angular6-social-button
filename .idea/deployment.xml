@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" promptOnRemoteOverwrite="CHECK_CONTENT" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;_notes;node_modules;supervise;error_log;*.csv;.composer;.subversion;.cp*;.softaculous;.ssh;.bash*;.usermin;.local;.npm;.babelrc;.pki;Maildir;" notifyRemoteChanges="true" />
+</project>
